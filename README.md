@@ -1,0 +1,2 @@
+# NewsiOSProject
+NewsiOSProjectAssignment
